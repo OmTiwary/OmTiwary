@@ -20,7 +20,7 @@
 &ensp;
 
 <img height=35px src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,bootstrap,tailwind,git,github">
-<img height=35px src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,linux,vscode">
+<img height=35px src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,linux,vscode,picart,lightroom,snapseed,editing">
 
 &ensp;
 
